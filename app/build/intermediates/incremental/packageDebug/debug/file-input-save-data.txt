@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 14 21:13:36 PKT 2020
+0.baseType=DIRECTORY
+0.base=D\:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\57
+0.path=classes.dex
+0.set=DEX
+count=1

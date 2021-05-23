@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D50000</color>
+    <color name="colorPrimaryDark">#C62828</color>
+    <color name="colorAccent">#C62828</color>
+    <color name="white">#ffffff</color>
+    <color name="theme">#000000</color>
+    <color name="button_text_color">#ffffff</color>
+    <color name="cancel_ride_color">#3e70c9</color>
+    <color name="lightGray">#bdbdbd</color>
+</resources>

@@ -1,0 +1,58 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:wave="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cl_home"
+    android:background="#ffffff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.john.waveview.WaveView
+                android:id="@+id/wave_view"
+                android:layout_width="match_parent"
+                android:layout_height="?actionBarSize"
+                android:background="@android:color/white"
+                wave:above_wave_color="#9a0007"
+                wave:blow_wave_color="#9a0007"
+                wave:progress="10"
+                wave:wave_height="middle"
+                wave:wave_hz="normal"
+                wave:wave_length="middle" />
+
+            <android.support.v7.widget.SwitchCompat
+                android:id="@+id/online_switch"
+                android:layout_width="match_parent"
+                android:layout_height="?actionBarSize"
+                android:layout_marginRight="16dp"
+                android:layout_marginEnd="16dp"
+                android:checked="false"/>
+
+
+            <TextView
+                android:id="@+id/tv_online"
+                android:layout_width="match_parent"
+                android:layout_height="?actionBarSize"
+                android:text="@string/go_online"
+                android:textColor="#373737"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Button"
+                android:gravity="center"
+                android:background="?android:attr/selectableItemBackground"/>
+        </RelativeLayout>
+        <fragment
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/map"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            />
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

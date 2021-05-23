@@ -1,0 +1,502 @@
+[
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_orange_corner.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\view_orange_corner.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_revenue.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-mdpi\\revenue.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_send_message.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-ldpi\\ic_send_message.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_session.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_session.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_comment.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_comment.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_star.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-ldpi\\ic_star.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_history.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-mdpi\\history.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sample_photo2.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\sample_photo2.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_password_reset.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_password_reset.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_dashboard.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\content_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_help.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_menu_help.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progresscolor.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\progresscolor.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_image.9.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-mdpi\\back_image.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_earning.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\fragment_earning.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fb_button.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\fb_button.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_total.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-mdpi\\total.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_rounded_button.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-v21\\rounded_button.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_border.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\rounded_border.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_request.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_request.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_cancel.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_action_cancel.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-hdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_button.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_revenue.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-xhdpi\\revenue.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_new_message.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_new_message.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_red_corner.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\view_red_corner.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_dashboard.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\menu\\dashboard.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_total.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-xhdpi\\total.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_button_dark.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\shape_button_dark.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash.9.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-ldpi\\splash.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonshape2.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\buttonshape2.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cancel.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-xhdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_navigate.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_action_navigate.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_corner_black.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\button_corner_black.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_list_item.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\history_list_item.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_shape.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_icon.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\profile_icon.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dummy_user.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_dummy_user.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_history.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_menu_history.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_pin.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_location_pin.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_work_black_24dp.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_work_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonshape.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\buttonshape.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_dashboard.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\app_bar_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_revenue.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-hdpi\\revenue.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.9.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-hdpi\\splash.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_right.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_right.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rounded_red.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\shape_rounded_red.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_setting.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_setting.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dashboard_drawer.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\menu\\activity_dashboard_drawer.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rounded_dark.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\shape_rounded_dark.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_profile.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_menu_profile.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_password.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_txt_size.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\anim\\txt_size.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_message_black_24dp.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_message_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_history.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-hdpi\\history.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_frament_job.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\frament_job.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_empty_message_view.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\empty_message_view.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_back_image.9.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-ldpi\\back_image.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_progress.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\custom_progress.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_calendar_clock.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-v21\\calendar_clock.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_back_white.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-v21\\back_white.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_error.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-ldpi\\ic_error.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_dashboard.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\nav_header_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fb.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\fb.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_invoice.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_invoice.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_wallet.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_menu_wallet.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_total.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-hdpi\\total.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_green_corner.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\view_green_corner.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash.9.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-xhdpi\\splash.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_yourtrip.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_menu_yourtrip.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_style_json.json.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\raw\\style_json.json"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cancel.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-mdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_image.9.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-xhdpi\\back_image.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flat.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_flat.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_request.mp3.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\raw\\request.mp3"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_image.9.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-hdpi\\back_image.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.9.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable-mdpi\\splash.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_menu.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_action_menu.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mazdoorlogo.jpg.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\mazdoorlogo.jpg"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_account.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_circle.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_customdialog.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\customdialog.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_blue_corner.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\view_blue_corner.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_job.png.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\ic_job.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_progress_bar.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_job_progress.xml.flat",
+        "source": "D:\\Photoshop\\ProviderApp\\app\\src\\main\\res\\layout\\activity_job_progress.xml"
+    }
+]

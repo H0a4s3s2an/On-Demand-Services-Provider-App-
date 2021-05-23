@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Photoshop\\ProviderApp\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v15\\values-v15.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Hassan Javaid\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.36.0.aar\\e7071dc4f2902c89b2413bb30986bf12\\res\\values-v15\\values-v15.xml",
+                    "from": {
+                        "startLines": "2,5,8,11,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,201,333,471,599",
+                        "endLines": "4,7,10,13,16",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "196,328,466,594,732"
+                    }
+                }
+            ]
+        }
+    ]
+}

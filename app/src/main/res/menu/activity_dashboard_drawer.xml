@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homee"
+            android:icon="@drawable/ic_home"
+            android:title="Home"
+            />
+        <item
+            android:id="@+id/pro"
+            android:icon="@drawable/ic_menu_profile"
+            android:title="My Profile"/>
+        <item
+            android:id="@+id/jobee"
+            android:icon="@drawable/ic_job"
+            android:title="My Job"/>
+        <!--<item-->
+            <!--android:id="@+id/chit"-->
+            <!--android:title="Chat"/>-->
+        <item
+            android:id="@+id/earn"
+            android:icon="@drawable/ic_menu_wallet"
+            android:title="Earning" />
+
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/ic_setting"
+            android:title="Setting" />
+    </group>
+</menu>

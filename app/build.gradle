@@ -1,0 +1,58 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    defaultConfig {
+        applicationId "com.example.sample.providerapp"
+        minSdkVersion 16
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+repositories {
+    jcenter()
+}
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.0'
+    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.android.support:support-vector-drawable:26.1.0'
+    implementation 'com.android.support:support-v4:26.1.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.1'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+    implementation 'com.google.firebase:firebase-core:11.8.0'
+    implementation 'com.facebook.android:account-kit-sdk:4.36.0'
+    implementation 'com.google.firebase:firebase-database:11.8.0'
+    implementation 'com.google.firebase:firebase-messaging:11.8.0'
+    implementation 'com.google.firebase:firebase-auth:11.8.0'
+    compile 'com.github.d-max:spots-dialog:0.7@aar'
+    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+    implementation 'com.squareup.retrofit2:converter-scalars:2.4.0'
+    implementation 'com.mikhaellopez:circularimageview:3.0.2'
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+    compile 'com.github.john990:WaveView:v0.9'
+    compile 'com.github.anupamchugh:SmoothCountDownProgressBar:1.0'
+    implementation 'com.android.support:recyclerview-v7:26.1.0'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    compile 'com.android.support:cardview-v7:26.+'
+    implementation 'com.firebaseui:firebase-ui-database:3.1.0'
+    implementation 'com.google.firebase:firebase-storage:11.8.0'
+    compile 'com.ebanx:swipe-button:0.8.3'
+    compile 'com.google.android.gms:play-services-maps:11.8.0'
+    compile 'com.google.android.gms:play-services-location:11.8.0'
+    compile 'com.firebase:geofire-android:2.1.1'
+    compile 'com.firebaseui:firebase-ui-auth:2.0.1'
+}
+apply plugin: 'com.google.gms.google-services'
